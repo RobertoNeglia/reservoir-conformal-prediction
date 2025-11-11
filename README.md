@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.05060-b31b1b.svg?)](https://arxiv.org/abs/2510.05060)
 
-The code for the reproducibility of the experiments presented in the paper [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060) will become available upon paper acceptance.
+The code for the reproducibility of the experiments presented in the paper [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060) will become available upon publication.
 
 **Authors:** [Roberto Neglia](https://robertoneglia.github.io/), [Andrea Cini](https://andreacini.github.io/), [Michael M. Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/), [Filippo Maria Bianchi](https://sites.google.com/view/filippombianchi/). 
 
