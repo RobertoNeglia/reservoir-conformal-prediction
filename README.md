@@ -1,4 +1,4 @@
-# Bayesian Nonparametric Graph Pooling
+# Reservoir Conformal Prediction for Time Series Forecasting
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.05060-b31b1b.svg?)](https://arxiv.org/abs/2510.05060)
 
