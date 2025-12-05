@@ -1,10 +1,10 @@
-<p align=center>
-	<img src="./assets/rescp2k.gif" alt="{ResCP}"/>
-</p>
-
 # Reservoir Conformal Prediction for Time Series Forecasting
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.05060-b31b1b.svg?)](https://arxiv.org/abs/2510.05060)
+
+<p align=center>
+	<img src="./assets/rescp2k.gif" alt="{ResCP}"/>
+</p>
 
 The code for the reproducibility of the experiments presented in the paper [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060) will become available upon publication.
 
